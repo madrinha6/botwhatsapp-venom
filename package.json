@@ -14,5 +14,7 @@
   },
   "dependencies": {
     "venom-bot": "^5.0.20"
-  }
+  },
+  "description": "<p align=\"center\"></p>\r <h1 align=\"center\">\r     <a href=\"https://nodejs.org/en/\">🔗 NodeJS</a>\r     <a href=\"https://www.npmjs.com/package/venom-bot\">🧠 Venom Bot</a>\r </h1>\r <p align=\"center\">🚀 Projeto criado com o intuito de auxiliar nas demandas de pedidos da empresa \"Delícias da Neide\" via WhatsApp.</p>\r <br>\r <h1 align=\"center\">\r   Welcome\r   <img alt=\"Welcome\" title=\"Welcome\" src=\"./assets/welcome.png\" />\r   Menu\r   <img alt=\"Menu\" title=\"Menu\" src=\"./assets/menu.png\" />\r   Order\r   <img alt=\"Order\" title=\"Order\" src=\"./assets/order.png\" />\r   Address\r   <img alt=\"Address\" title=\"Address\" src=\"./assets/address.png\" />\r   Bill\r   <img alt=\"Bill\" title=\"Bill\" src=\"./assets/bill.png\" />\r   Assistant\r   <img alt=\"Assistant\" title=\"Assistant\" src=\"./assets/assistant.png\" />\r </h1>",
+  "author": ""
 }
