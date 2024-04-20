@@ -1,19 +1,19 @@
 export const menu = {
   1: {
-    description: 'Leite Ninho',
-    price: 6,
+    description: 'dry',
+    price: 50,
   },
   2: {
-    description: 'Alpino',
-    price: 6,
+    description: 'ice',
+    price: 120,
   },
   3: {
-    description: 'Prestígio',
-    price: 6,
+    description: 'Prensado',
+    price: 100,
   },
   4: {
-    description: 'Abacaxi',
-    price: 6,
+    description: 'caneta 5ml',
+    price: 650,
   },
   5: {
     description: 'Dois Amores',

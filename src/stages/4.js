@@ -22,7 +22,7 @@ export const stageFour = {
       phone[0]
     } \n🧁 Sabores: *${desserts}* \n📍 Endereço: *${address}* \n🚚 Taxa de entrega: *a confirmar*. \n💰 Valor dos bolos: *${
       total * 6
-    },00 reais*. \n⏳ Tempo de entrega: *50 minutos*. \n🛑 Detalhes: *${message}*`
+    },00 reais*. \n⏳ Tempo de entrega: *60 minutos*. \n🛑 Detalhes: *${message}*`
 
     await VenomBot.getInstance().sendText({ to: from, message: msg })
   },
